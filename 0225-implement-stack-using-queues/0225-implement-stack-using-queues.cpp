@@ -17,10 +17,7 @@ public:
             if(q1.empty())  break;
             q2.push(t);
         }
-        while(!q2.empty()){
-            q1.push(q2.front());
-            q2.pop();
-        }
+        swap(q1,q2);
         return t;
     }
     
