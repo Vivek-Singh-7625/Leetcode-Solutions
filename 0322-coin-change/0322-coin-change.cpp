@@ -2,18 +2,18 @@ class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
         vector<int> dp(amount+1,-1);
-        int ans = helper(coins , amount , dp) ;
-        return ans == INT_MAX ? -1 : ans;
-    }
-    int helper(vector<int>& coins, int amount , vector<int>& dp){
-        if(amount == 0) return  0;
-        if(amount < 0)  return INT_MAX;
-        if(dp[amount] != -1)    return dp[amount];
-        int ans = INT_MAX, t;
-        for(int i = 0 ; i < coins.size() ; i++) { 
-            t = helper(coins,amount-coins[i],dp);
-            if(t != INT_MAX)    ans = min(ans,t+1);
+        dp[0] = 0;
+        int n = coins.size();
+        sort(coins.begin(),coins.end());
+        for(int i = 1 ; i <= amount ; i++){
+            for(int j = 0 ; j < n ; j++){
+                if(i - coins[j] < 0)    break;
+                if(dp[i-coins[j]] != -1){
+                    if(dp[i] != -1) dp[i] = min(dp[i],dp[i-coins[j]] + 1);
+                    else    dp[i] = dp[i-coins[j]] + 1;
+                }
+            }
         }
-        return dp[amount] = ans;
+        return dp[amount];
     }
 };
