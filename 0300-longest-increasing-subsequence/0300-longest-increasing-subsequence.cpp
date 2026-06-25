@@ -1,22 +1,16 @@
 class Solution {
 public:
-
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        int mx = *max_element(nums.begin(), nums.end());
-        int mn = *min_element(nums.begin(), nums.end());
-        int shift = min(0, mn);
-        int t = mx + 1;
-        int rows = t - shift + 1;
-        vector<vector<int>> dp(rows, vector<int>(n, -1));
-        return count(nums, n - 1, t, dp, shift);
+        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
+        return solve(0, -1, nums, dp);
     }
-    int count(vector<int>& nums, int idx, int prev,vector<vector<int>>& dp, int mn) {
-        if (idx < 0) return 0;
-        if (dp[prev - mn][idx] != -1)    return dp[prev - mn][idx];
+    int solve(int idx, int prev, vector<int>& nums,vector<vector<int>>& dp) {
+        if (idx == nums.size()) return 0;
+        if (dp[idx][prev + 1] != -1)    return dp[idx][prev + 1];
+        int notTake = solve(idx + 1, prev, nums, dp);
         int take = 0;
-        if (nums[idx] < prev)   take = 1 + count(nums, idx - 1, nums[idx], dp, mn);
-        int not_take = count(nums, idx - 1, prev, dp, mn);
-        return dp[prev - mn][idx] = max(take, not_take);
+        if (prev == -1 || nums[idx] > nums[prev])   take = 1 + solve(idx + 1, idx, nums, dp);
+        return dp[idx][prev + 1] = max(take, notTake);
     }
 };
