@@ -11,11 +11,13 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -76,4 +78,24 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
