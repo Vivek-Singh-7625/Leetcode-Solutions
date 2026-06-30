@@ -18,6 +18,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -36,11 +37,13 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
