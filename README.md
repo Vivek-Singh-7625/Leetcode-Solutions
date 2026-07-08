@@ -29,6 +29,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0292-nim-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Recursion
 |  |
@@ -104,4 +105,12 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
