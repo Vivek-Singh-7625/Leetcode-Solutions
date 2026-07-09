@@ -33,6 +33,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0172-factorial-trailing-zeroes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Recursion
@@ -116,6 +117,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
