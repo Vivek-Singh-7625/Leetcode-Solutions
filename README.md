@@ -7,6 +7,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -147,5 +148,10 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
