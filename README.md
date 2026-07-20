@@ -7,6 +7,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -78,6 +79,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -95,6 +97,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
@@ -166,6 +169,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -210,4 +214,8 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0397-integer-replacement) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
