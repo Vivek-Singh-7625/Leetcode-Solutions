@@ -14,6 +14,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
+| [0414-third-maximum-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -178,6 +179,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
