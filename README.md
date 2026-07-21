@@ -24,6 +24,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1260-shift-2d-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -180,6 +181,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
