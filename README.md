@@ -74,6 +74,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
