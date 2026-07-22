@@ -34,6 +34,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -52,6 +53,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0171-excel-sheet-column-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
@@ -105,6 +107,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
@@ -240,6 +243,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
