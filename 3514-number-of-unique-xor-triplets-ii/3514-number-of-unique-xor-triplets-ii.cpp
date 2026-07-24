@@ -4,14 +4,14 @@ public:
         int ans = 0 , n = nums.size() , t;
         unordered_map<int,int> mpp;
         vector<int> X;
+        vector<bool> V(2049,false);
         for(int i = 0 ; i < n; i++){
             for(int j = i ; j < n; j++){
                 t = nums[i]^nums[j];
-                if(!mpp[t]) X.push_back(t);
-                mpp[t]++;
+                if(!V[t]) X.push_back(t);
+                V[t] = true;
             }
         }
-        mpp.clear();
         int n2 = X.size();
         for(int i = 0 ; i < n; i++){
             for(int j = i ; j < n2; j++){
