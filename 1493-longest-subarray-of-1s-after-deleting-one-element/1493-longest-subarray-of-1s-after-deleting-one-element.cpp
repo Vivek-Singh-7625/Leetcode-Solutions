@@ -8,7 +8,6 @@ public:
                 while(st < n-1 and nums[st++] != 0);
                 cz--;
             }
-            cout << st << " " << i << endl;
             ans = max(ans,i-st);
         }
         return ans;
