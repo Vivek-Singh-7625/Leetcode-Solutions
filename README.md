@@ -72,6 +72,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0789-escape-the-ghosts) |
 | [1137-n-th-tribonacci-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -96,6 +97,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -161,6 +163,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0397-integer-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
