@@ -44,6 +44,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0001-two-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -90,6 +91,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0008-string-to-integer-atoi](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0925-long-pressed-name](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
