@@ -54,6 +54,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -102,6 +103,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -168,6 +170,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +187,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -233,6 +237,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
