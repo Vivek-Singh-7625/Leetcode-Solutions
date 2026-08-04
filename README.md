@@ -39,6 +39,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2733-neither-minimum-nor-maximum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3668-restore-finishing-order](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -59,6 +60,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1436-destination-city](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3668-restore-finishing-order](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3945-digit-frequency-score](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
