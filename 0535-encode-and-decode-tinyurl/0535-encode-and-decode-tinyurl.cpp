@@ -1,6 +1,5 @@
 class Solution {
 public:
-    string a , b , c , d ;
     // Encodes a URL to a shortened URL.
     int n = 0;
     unordered_map<string,string> mpp;
