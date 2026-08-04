@@ -7,9 +7,8 @@ public:
             mpp[groupSizes[i]].push_back(i);
         }
         vector<vector<int>> ans;
-        for(auto [key,value] : mpp){
-            n = mpp[key].size();
-            y = (n-1)/key + 1;
+        for(auto& [key,value] : mpp){
+            n = value.size();
             x = key;
             k = 0;
             vector<int> temp;
