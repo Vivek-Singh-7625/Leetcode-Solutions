@@ -13,15 +13,13 @@ public:
             k = 0;
             vector<int> temp;
             for (int val : mpp[key]) {
-                if(k++ < x) temp.push_back(val);
-                else{
+                temp.push_back(val);
+                if (temp.size() == key) {
                     ans.push_back(temp);
                     temp.clear();
-                    temp.push_back(val);
-                    k = 1;
                 }
             }
-            if(k)   ans.push_back(temp);
+            if(temp.size())   ans.push_back(temp);
         }
         return ans;
     }
