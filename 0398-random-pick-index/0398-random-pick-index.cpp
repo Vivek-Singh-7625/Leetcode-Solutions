@@ -8,11 +8,8 @@ public:
     }
     
     int pick(int target) {
-        int y = rand()%mpp[target].size() , k = 0;
-        for(int x : mpp[target]){
-            if(k++ == y)    return x;
-        }
-        return -1;
+        vector<int>& v = mpp[target];
+        return v[rand() % v.size()];
     }
 };
 
