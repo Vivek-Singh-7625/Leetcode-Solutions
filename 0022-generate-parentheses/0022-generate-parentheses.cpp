@@ -11,10 +11,6 @@ public:
             ans.push_back(t);
             return ;
         }
-        if(left == right){   
-            t += "(";
-            left--;
-        }
         if(left)    helper(left - 1 , right , t + "(" , ans);
         if(right > left)   helper(left , right - 1 , t + ")" , ans);
     }
