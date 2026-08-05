@@ -17,6 +17,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0414-third-maximum-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0518-coin-change-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -55,6 +56,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0398-random-pick-index](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -87,6 +89,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0367-valid-perfect-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0398-random-pick-index](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0789-escape-the-ghosts) |
 | [0877-stone-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0877-stone-game) |
