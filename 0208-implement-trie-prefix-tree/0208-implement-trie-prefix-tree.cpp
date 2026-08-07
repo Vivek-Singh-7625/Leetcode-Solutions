@@ -1,28 +1,60 @@
+struct Node {
+    Node* chars[26];
+    bool isEnd;
+    Node () {
+        for(int i = 0 ; i < 26 ; i++){
+            chars[i] = NULL;
+            isEnd = false;
+        }
+    }
+    bool contains(char c){
+        return (chars[c-'a'] != NULL);
+    }
+    void put(char c , Node* t){
+        chars[c-'a'] = t;
+    }
+    Node* get(char c) {
+        return chars[c-'a'];
+    }
+    void End() {
+        isEnd = true;
+    }
+};
 class Trie {
 public:
-    unordered_map<int,vector<string>> mpp;
+    Node* root;
     Trie() {
+        root = new Node;
     }
     
     void insert(string word) {
-        mpp[word[0] - 'a'].push_back(word);
+        Node* t = root;
+        for(int i = 0 ; i < word.size() ; i++){
+            if(!t->contains(word[i]))   t->put(word[i], new Node);
+            t = t->get(word[i]);
+        }
+        t->End();
     }
     
     bool search(string word) {
-        for(string x : mpp[word[0] - 'a']){
-            if(x == word)  return  true;
+        Node* t = root;
+        for(int i = 0 ; i < word.size() ; i++){
+            if(!t->contains(word[i]))   return false;
+            t = t->get(word[i]);
         }
-        return false;
+        return t->isEnd;
     }
     
     bool startsWith(string prefix) {
-        int k = prefix.size();
-        for(string x : mpp[prefix[0] - 'a']){
-            if(x.substr(0,k) == prefix)  return  true;
+        Node* t = root;
+        for(int i = 0 ; i < prefix.size() ; i++){
+            if(!t->contains(prefix[i]))   return false;
+            t = t->get(prefix[i]);
         }
-        return false;
+        return true;
     }
 };
+
 
 /**
  * Your Trie object will be instantiated and called as such:
