@@ -92,6 +92,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0171-excel-sheet-column-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
@@ -120,6 +121,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -341,6 +343,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
