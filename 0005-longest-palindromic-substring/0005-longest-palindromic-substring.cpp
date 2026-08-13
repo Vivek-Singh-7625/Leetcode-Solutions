@@ -11,7 +11,6 @@ public:
                 j = i + len - 1;
                 if (s[i] == s[j] && (len <= 2 || dp[i + 1][j - 1])) {
                     dp[i][j] = true;
-
                     if (len > max_len) {
                         max_len = len;
                         sp = i;
