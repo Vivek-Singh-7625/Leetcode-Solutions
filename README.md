@@ -110,6 +110,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1137-n-th-tribonacci-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1641-count-sorted-vowel-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -144,6 +145,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1021-remove-outermost-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1436-destination-city) |
+| [1903-largest-odd-number-in-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
@@ -229,6 +231,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1903-largest-odd-number-in-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
