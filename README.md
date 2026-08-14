@@ -59,6 +59,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0001-two-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -89,6 +90,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -302,6 +304,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
