@@ -91,6 +91,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -307,6 +308,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0005-longest-palindromic-substring](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
