@@ -2,7 +2,7 @@ class Solution {
 public:
     int MOD = 1e9 + 7;
     int countGoodNumbers(long long n) {
-        unsigned long long y = 1;
+        long long y = 1;
         y = (1ll*myPow(4,n/2)*myPow(5,n-n/2))%MOD;
         return y;
     }
