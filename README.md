@@ -51,6 +51,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3668-restore-finishing-order](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -400,6 +401,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
 |  |
 | ------- |
