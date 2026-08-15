@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<string> letterCombinations(string digits) {
+        vector<string> ans;
+        if(digits.empty())  return ans;
         vector<string> A;
         A.push_back("abc");
         A.push_back("def");
@@ -10,19 +12,17 @@ public:
         A.push_back("pqrs");
         A.push_back("tuv");
         A.push_back("wxyz");
-        vector<string> temp;
-        temp.push_back("");
-        int idx , len = 0;
-        for(int i = 0 ; i < digits.size() ; i++){
-            idx = digits[i]-'2';
-            while(temp[0].size() == len){
-                for(int k = 0 ; k < A[idx].size() ; k++){
-                    temp.push_back(temp[0]+A[idx][k]);
-                }
-                temp.erase(temp.begin());
-            }
-            len++;
+        backtrack(digits,0,"",ans,A);
+        return ans;
+    }
+    void backtrack(string& digits,int idx, string x , vector<string>& ans, vector<string>& A){
+        if(idx == digits.length()){
+            ans.push_back(x);
+            return;
         }
-        return temp;
+        string letter = A[digits[idx]-'2'];
+        for(int i = 0 ; i < A[digits[idx]-'2'].size() ; i++){
+            backtrack(digits,idx+1,x+A[digits[idx]-'2'][i],ans,A);
+        }
     }
 };
