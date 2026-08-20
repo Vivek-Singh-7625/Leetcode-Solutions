@@ -16,6 +16,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -260,6 +261,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -341,6 +343,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0148-sort-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
@@ -410,6 +413,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -481,6 +485,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 ## Combinatorics
 |  |
@@ -490,4 +495,8 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
