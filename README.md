@@ -50,6 +50,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3668-restore-finishing-order](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -367,6 +368,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0415-add-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
