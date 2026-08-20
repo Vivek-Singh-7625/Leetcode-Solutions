@@ -33,6 +33,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0789-escape-the-ghosts](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0789-escape-the-ghosts) |
 | [0867-transpose-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -79,6 +80,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -188,6 +190,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -299,6 +302,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
