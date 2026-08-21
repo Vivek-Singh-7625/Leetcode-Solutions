@@ -35,6 +35,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0746-min-cost-climbing-stairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0789-escape-the-ghosts](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0789-escape-the-ghosts) |
 | [0867-transpose-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
@@ -270,6 +271,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
