@@ -13,6 +13,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0063-unique-paths-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0221-maximal-square) |
@@ -261,6 +262,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
