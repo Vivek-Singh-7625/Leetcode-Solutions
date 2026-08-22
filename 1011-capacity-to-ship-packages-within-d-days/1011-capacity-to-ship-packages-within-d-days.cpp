@@ -1,13 +1,13 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int low = INT_MAX , high , mid , x = 0 ,  y = INT_MIN , n = weights.size();
+        int low, high , mid , x = 0 ,  y = INT_MIN , n = weights.size();
         int t , s;
         for(int i = 0 ; i < n ; i++){
-            low = min(low,weights[i]);
             y = max(y,weights[i]);
             x += weights[i];
         }
+        low = y;
         high = x;
         while(low < high){
             mid = low + (high - low)/2;
