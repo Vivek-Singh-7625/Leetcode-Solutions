@@ -6,7 +6,7 @@ public:
         vector<int> C(128, -1);
         int l = 0;
         for (int i = 0; i < n; i++) {
-            l = max(C[s[i]] + 1,l);
+            if (C[s[i]] >= l)   l = C[s[i]] + 1;
             C[s[i]] = i;
             ans = max(ans, i - l + 1);
         }
