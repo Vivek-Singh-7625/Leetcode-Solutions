@@ -24,7 +24,7 @@ public:
                 aliceTurn = !aliceTurn;
             }
         }
-        return (leftSum + leftAlice * 9 != rightSum + rightBob * 9) ||
-               (leftSum + leftBob * 9 != rightSum + rightAlice * 9);
+        if ((leftAlice + leftBob + rightAlice + rightBob) % 2 == 1) return true;
+        return (leftSum + leftAlice * 9 != rightSum + rightBob * 9) ||  (leftSum + leftBob * 9 != rightSum + rightAlice * 9);
     }
 };
