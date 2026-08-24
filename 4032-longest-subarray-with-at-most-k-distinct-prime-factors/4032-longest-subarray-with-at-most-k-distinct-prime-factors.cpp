@@ -28,18 +28,18 @@ public:
             else{
                 t = nums[i];
                 for(int j = 0 ; j < prime.size() ; j++){
-                    if(prime[j] > t)  break;
+                    if(prime[j]*prime[j] > t)  break;
                     if(t%prime[j] == 0){
                         while(t%prime[j] == 0)  t = t/prime[j];
                         factors[i].push_back(prime[j]);
                     }
                 }
+                if (t > 1)  factors[i].push_back(t);
             }
         }
         vector<int> freq(mx+1,0);
-        int uq = 0 , ans = 0 , l = 0 , st = 0;
+        int uq = 0 , ans = 0 , st = 0;
         for(int i = 0 ; i < n ; i++){
-            l++;
             for(int j = 0 ; j < factors[i].size() ; j++){
                 if(!freq[factors[i][j]])    uq++;
                 freq[factors[i][j]]++;
@@ -51,7 +51,7 @@ public:
                 }
                 st++;
             }
-            ans = max(l-st,ans);
+            ans = max(i+1-st,ans);
         }
         return ans;
     }
