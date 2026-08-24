@@ -1,8 +1,9 @@
 class Solution {
 public:
-    vector<bool> A ;
-    vector<int> prime;
-    Solution(){
+    inline static vector<bool> A ;
+    inline static vector<int> prime;
+    static void Solver(){
+        if (!prime.empty()) return;
         int n = 100001;
         A.assign(n,true);
         A[0] = false;
@@ -18,6 +19,7 @@ public:
         }
     }
     int longestSubarray(vector<int>& nums, int k) {
+        Solver();
         int mx = 0 , t = 0 , n = nums.size();
         vector<vector<int>> factors(nums.size()); 
         for(int i = 0 ; i < n ; i++){
