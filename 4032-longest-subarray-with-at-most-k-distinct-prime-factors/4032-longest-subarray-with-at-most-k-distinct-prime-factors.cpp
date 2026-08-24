@@ -7,12 +7,14 @@ public:
         A.assign(n,true);
         A[0] = false;
         A[1] = false;
-        for(int i = 2 ; i < n ; i++){
+        for(int i = 2 ; i*i < n ; i++){
             if(!A[i])   continue;
-            prime.push_back(i);
-            for(int j = 2*i ; j < n ; j += i){
+            for(int j = i*i ; j < n ; j += i){
                 A[j] = false;
             }
+        }
+        for (int i = 2; i < n; i++) {
+            if (A[i])   prime.push_back(i);
         }
     }
     int longestSubarray(vector<int>& nums, int k) {
