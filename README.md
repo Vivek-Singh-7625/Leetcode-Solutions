@@ -29,6 +29,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0416-partition-equal-subset-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
+| [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -293,6 +294,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0376-wiggle-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1903-largest-odd-number-in-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -368,6 +370,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -379,6 +382,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1051-height-checker) |
@@ -532,4 +536,8 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
