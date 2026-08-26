@@ -186,6 +186,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0415-add-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -219,6 +220,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0173-binary-search-tree-iterator](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -297,6 +299,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1903-largest-odd-number-in-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -499,6 +502,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Reservoir Sampling
