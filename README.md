@@ -15,6 +15,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -286,6 +287,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
