@@ -149,6 +149,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1903-largest-odd-number-in-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1927-sum-game) |
+| [2235-add-two-integers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
