@@ -12,7 +12,7 @@ public:
                 x++;
             }
             if(ones == k){   
-                if (y - x < ans || (y - x == ans && s.substr(x, y - x) < s.substr(idx, ans))) {
+                if (y - x < ans || (y - x == ans && s.compare(x, y-x, s, idx, y-x) < 0)) {
                     ans = y-x;
                     idx = x;
                 }
