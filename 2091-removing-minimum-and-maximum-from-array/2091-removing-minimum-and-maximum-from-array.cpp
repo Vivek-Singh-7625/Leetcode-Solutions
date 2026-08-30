@@ -7,6 +7,6 @@ public:
             if(nums[mn] > nums[i])  mn = i;
         }
         int ans = min(max(mx+1,mn+1),max(n-mx,n-mn));
-        return min(min(n-mx+mn+1,n-mn+mx+1),ans);
+        return min({n-mx+mn+1,n-mn+mx+1,ans});
     }
 };
