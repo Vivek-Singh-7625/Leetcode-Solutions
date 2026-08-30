@@ -17,6 +17,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0221-maximal-square) |
@@ -280,6 +281,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Backtracking
@@ -434,6 +436,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0419-battleships-in-a-board](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0867-transpose-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
@@ -486,6 +489,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 ## Heap (Priority Queue)
 |  |
@@ -589,4 +593,8 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
