@@ -14,30 +14,13 @@ public:
         return ans;
     }
     void solver(vector<vector<char>>& grid , int i , int j){
-        queue<pair<int,int>> q;
-        q.push({i,j});
-        grid[i][j] = '0';
-        int m = grid.size() , n = grid[0].size();
-        while(!q.empty()){
-            auto x = q.front();
-            q.pop();
-            int a = x.first , b = x.second;
-            if(a < m-1 and grid[a+1][b] == '1'){ 
-                q.push({a+1,b});
-                grid[a+1][b] = '0';
-            }
-            if(b < n-1 and grid[a][b+1] == '1'){ 
-                q.push({a,b+1});
-                grid[a][b+1] = '0';
-            }
-            if(a  and grid[a-1][b] == '1'){ 
-                q.push({a-1,b});
-                grid[a-1][b] = '0';
-            }
-            if(b  and grid[a][b-1] == '1'){ 
-                q.push({a,b-1});
-                grid[a][b-1] = '0';
-            }
+        if(grid[i][j] == '0'){
+            return;
         }
+        grid[i][j] = '0';
+        if(i > 0)   solver(grid, i - 1, j);
+        if(i < grid.size() - 1) solver(grid, i + 1, j);
+        if(j > 0)   solver(grid, i, j - 1);
+        if(j < grid[0].size() - 1)  solver(grid, i, j + 1);
     }
 };
