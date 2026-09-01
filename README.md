@@ -286,6 +286,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Backtracking
 |  |
 | ------- |
@@ -452,6 +453,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -464,6 +466,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
@@ -496,6 +499,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0098-validate-binary-search-tree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
