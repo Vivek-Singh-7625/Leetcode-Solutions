@@ -127,6 +127,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0061-rotate-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -504,6 +505,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0098-validate-binary-search-tree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Heap (Priority Queue)
@@ -617,4 +619,8 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
