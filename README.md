@@ -84,6 +84,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -180,6 +181,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3945-digit-frequency-score](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
