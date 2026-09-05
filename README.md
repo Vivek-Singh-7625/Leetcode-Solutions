@@ -44,6 +44,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0746-min-cost-climbing-stairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0789-escape-the-ghosts](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0789-escape-the-ghosts) |
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -107,6 +108,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -340,6 +342,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0435-non-overlapping-intervals](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -439,6 +442,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
