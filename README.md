@@ -11,6 +11,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -311,6 +312,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0162-find-peak-element) |
@@ -463,6 +465,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0221-maximal-square) |
