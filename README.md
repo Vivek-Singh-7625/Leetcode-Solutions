@@ -8,6 +8,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -422,6 +423,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0061-rotate-list) |
@@ -441,6 +443,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
