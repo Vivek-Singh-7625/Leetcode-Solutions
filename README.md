@@ -73,6 +73,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2680-maximum-or](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2680-maximum-or) |
+| [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -301,6 +302,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -317,6 +319,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 ## Binary Search
 |  |
 | ------- |
@@ -358,6 +361,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1927-sum-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2680-maximum-or](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2680-maximum-or) |
+| [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
@@ -412,6 +416,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1291-sequential-digits) |
+| [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -460,6 +465,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -525,6 +531,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2680-maximum-or](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2680-maximum-or) |
+| [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
