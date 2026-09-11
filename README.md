@@ -507,6 +507,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0513-find-bottom-left-tree-value](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -521,6 +522,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0513-find-bottom-left-tree-value](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Iterator
 |  |
 | ------- |
@@ -558,6 +560,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
