@@ -16,16 +16,13 @@ public:
         solver(root,ans);
         return ans;
     }
-    void solver(TreeNode* root , int& ans ){
-        if(!root)   return;
-        solver(root->left,ans);
-        solver(root->right,ans);
-        long long sum = 0 ;
-        if(root->left)  sum += root->left->val;
-        if(root->right) sum += root->right->val;
-        long long t = root->val;
-        root->val += sum + 1000001;
-        if(t == (root->val%1000001)/(root->val/1000001))    ans++;
-        return;
+    pair<int,int> solver(TreeNode* root , int& ans ){
+        if(!root)   return {0,0};
+        auto left  = solver(root->left,ans);
+        auto right = solver(root->right,ans);
+        int sum = root->val + left.first + right.first;
+        int count = 1 + left.second + right.second;
+        if(root->val == (sum/count))    ans++;
+        return {sum,count};
     }
 };
