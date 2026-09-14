@@ -169,6 +169,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0789-escape-the-ghosts) |
+| [0836-rectangle-overlap](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
@@ -640,6 +641,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
+| [0836-rectangle-overlap](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 ## Sweep Line
 |  |
 | ------- |
