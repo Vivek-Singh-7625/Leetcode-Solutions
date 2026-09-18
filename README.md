@@ -37,6 +37,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -268,6 +269,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0225-implement-stack-using-queues](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -567,6 +569,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
