@@ -177,6 +177,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0367-valid-perfect-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0391-perfect-rectangle](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -235,6 +236,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -569,6 +571,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0231-power-of-two](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0397-integer-replacement) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
