@@ -5,6 +5,7 @@ public:
         bool work;
         string t , ans;
         unordered_map<string,string> mpp;
+        mpp.reserve(knowledge.size());
         for(int i = 0 ; i < m ; i++)    mpp[knowledge[i][0]] = knowledge[i][1];
         for(int i = 0 ; i < n ; i++){
             if(s[i] == ')'){
