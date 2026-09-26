@@ -77,6 +77,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -138,6 +139,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1436-destination-city](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -251,6 +253,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1436-destination-city](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
