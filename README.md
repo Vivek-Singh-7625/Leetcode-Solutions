@@ -149,6 +149,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3941-password-strength](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -266,6 +267,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3498-reverse-degree-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3941-password-strength](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
 | ------- |
