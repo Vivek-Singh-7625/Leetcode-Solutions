@@ -1,17 +1,25 @@
 class Solution {
 public:
     int passwordStrength(string password) {
-        vector<bool> mpp(66,false);
-        int n = password.length() , ans = 0;
-        for(int i = 0 ; i < n ; i++){
-            if(password[i] >= 'a' and password[i] <= 'z' and !mpp[password[i]-'a']) ans++ , mpp[password[i]-'a'] = true;
-            else if(password[i] >= 'A' and password[i] <= 'Z' and !mpp[password[i]-'A'+26]) ans += 2 , mpp[password[i]-'A'+26] = true;
-            else if(password[i] >= '0' and password[i] <= '9' and !mpp[password[i]-'0'+52]) ans += 3 , mpp[password[i]-'0'+52] = true;
-            else{
-                if(password[i] == '!' and !mpp[62])  ans += 5 , mpp[62] = true;
-                else if(password[i] == '@' and !mpp[63])  ans += 5 , mpp[63] = true;
-                else if(password[i] == '#' and !mpp[64])  ans += 5 , mpp[64] = true;
-                else if(password[i] == '$' and !mpp[65])  ans += 5 , mpp[65] = true;
+        int ans = 0;
+        vector<int> seen(256,false);
+        for (char c : password) {
+            if (seen[c]) continue;
+            if (c >= 'a' && c <= 'z') {
+                ans += 1;
+                seen[c] = true;
+            }
+            else if (c >= 'A' && c <= 'Z') {
+                ans += 2;
+                seen[c] = true;
+            }
+            else if (c >= '0' && c <= '9') {
+                ans += 3;
+                seen[c] = true;
+            }
+            else if (c == '!' || c == '@' || c == '#' || c == '$') {
+                ans += 5;
+                seen[c] = true;
             }
         }
         return ans;
