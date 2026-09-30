@@ -1,13 +1,24 @@
 class Solution {
 public:
     int minPairSum(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int s = 0 , e = nums.size()-1 , sum = INT_MIN;
-        while(e > s){
-            if(nums[s] + nums[e] > sum) sum = nums[s] + nums[e];
-            s++;
-            e--;
+        int n = nums.size();
+        int size = 10;
+        while(size < n) size = size*10;
+        size = (n == 10000) ? 100000 : size + 1;
+        vector<int> freq(size);
+        for (auto& x : nums)  freq[x]++;
+        int res = 0;
+        int i = 0;
+        int j = size - 1;
+        while (i <= j) {
+            if (freq[i] == 0)   i++;
+            else if (freq[j] == 0)  j--;
+            else {
+                res = max(res, i + j);
+                freq[i]--;
+                freq[j]--;
+            }
         }
-        return sum;
+        return res;
     }
 };
