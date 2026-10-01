@@ -1,11 +1,9 @@
 class Solution {
 public:
     char bracket_open(char c){
-        switch (c){
-            case ')': return '(';
-            case '}': return '{';
-            case ']': return '[';
-        }
+        if(c == ')')    return '(';
+        else if(c == '}')   return '{';
+        else if(c == ']')   return '[';
         return 0;
     }
     bool isValid(string& s) { 
