@@ -4,7 +4,6 @@ public:
         int m = grid.size() , x , n = grid[0].size() , N = m * n;
         vector<int> freq(N + 1, 0);
         vector<int> ans;
-        ans.reserve(2);
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 x = grid[i][j];
