@@ -1,22 +1,22 @@
 class Solution {
 public:
     string findCommonResponse(vector<vector<string>>& responses) {
-        int m = responses.size() , t = -1;
-        unordered_map<string,int> mpp;
-        for(int i = 0 ; i < m ; i++){
-            unordered_map<string,int> mp;
+        unordered_map<string, int> mpp;
+        mpp.reserve(responses.size() * 10);
+
+        for (int i = 0; i < responses.size(); i++) {
+            unordered_map<string, int> mp;
             mp.reserve(responses[i].size());
-            for(int j = 0 ; j < responses[i].size() ; j++)  mp[responses[i][j]]++;
-            for(auto [k,v] : mp)    mpp[k]++;
+            for (int j = 0; j < responses[i].size(); j++)   mp[responses[i][j]]++;
+            for (auto &[k, v] : mp) mpp[k]++;
         }
-        string ans = "zzzzzzzzzzzzzzzzzzzz";
-        for(auto [k,v] : mpp){
-            if (v > t) {
+
+        string ans = "";
+        int t = -1;
+        for (auto &[k, v] : mpp) {
+            if (v > t || (v == t && k < ans)) {
                 ans = k;
                 t = v;
-            } 
-            else if (v == t) {
-                if (k < ans)    ans = k;
             }
         }
         return ans;
