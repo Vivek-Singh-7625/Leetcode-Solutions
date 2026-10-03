@@ -1,27 +1,18 @@
 class Solution {
 public:
     long long maxStrength(vector<int>& nums) {
-        long long a1 = 1 , a2 = INT_MIN;
-        int x = INT_MIN , l = 0 , p = 0;
-        bool isz = true , isp = false , z = false;
-        if(nums.size() == 1)    return nums[0];
-        for(int i = 0 ; i < nums.size() ; i++){
-            if(nums[i]){ 
-                a1 = a1*nums[i];
-                isp = true , isz = false;
-                if(nums[i] < 0){ 
-                    x = max(x,nums[i]);
-                    l++;
-                }
-                else p++;
+        long long ans = 1;
+        int neg = INT_MIN, mx = INT_MIN, negCount = 0;
+        for(auto n: nums){
+            if(n) ans *= n;
+            if(n < 0){ 
+                neg = max(neg, n); 
+                negCount++; 
             }
-            else    z = true;
+            mx = max(mx, n);
         }
-        if(isz) return 0;
-        if(l > 1)   a2 = max(a1,a1/x);
-        if(p)   a2 = max(a1,a1/x); 
-        if(z)   a2 = max(a2,0ll); 
-        a2 = max(a2,a1); 
-        return a2;
+        if(mx == 0 && negCount < 2) return 0;
+        if(mx < 0 && negCount == 1) return mx;
+        return (ans > 0) ? ans : ans/neg;
     }
 };
