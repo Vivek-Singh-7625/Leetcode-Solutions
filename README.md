@@ -104,6 +104,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3941-password-strength](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Linked List
 |  |
 | ------- |
@@ -445,6 +447,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3527-find-the-most-common-response](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -539,6 +542,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3731-find-missing-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
 |  |
 | ------- |
@@ -549,6 +553,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -640,6 +645,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -649,6 +655,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting Sort
 |  |
 | ------- |
