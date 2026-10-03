@@ -105,6 +105,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3903-smallest-stable-index-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3941-password-strength](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -448,6 +450,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3527-find-the-most-common-response](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
