@@ -1,12 +1,12 @@
 class Solution {
 public:
     int minRotations(string s) {
-        int ans = 0 , p = 0 , r;
+        int curr = 0 , n , ans = 0 , d;
         for(char c : s){
-            r = c-'0';
-            p = min(abs(r-p),10-abs(r-p));
-            ans += p;
-            p = r;
+            n = c - '0';
+            d = abs(n - curr);
+            ans += min(d , 10 - d);
+            curr = n;
         }
         return ans;
     }
