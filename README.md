@@ -184,6 +184,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0273-integer-to-english-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
@@ -231,6 +232,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0025-reverse-nodes-in-k-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [1922-count-good-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -250,6 +252,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0171-excel-sheet-column-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0273-integer-to-english-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
