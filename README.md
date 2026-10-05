@@ -264,6 +264,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0686-repeated-string-match](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0848-shifting-letters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -314,6 +315,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0232-implement-queue-using-stacks](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0856-score-of-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -686,6 +688,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
