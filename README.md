@@ -812,4 +812,8 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
