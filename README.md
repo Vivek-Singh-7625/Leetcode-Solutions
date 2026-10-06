@@ -261,6 +261,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0678-valid-parenthesis-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0848-shifting-letters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0848-shifting-letters) |
@@ -315,6 +316,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0232-implement-queue-using-stacks](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -358,6 +360,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0416-partition-equal-subset-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -417,6 +420,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0435-non-overlapping-intervals](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -688,6 +692,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
