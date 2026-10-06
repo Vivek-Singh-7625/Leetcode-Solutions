@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int n = s.length() , mn = 0 , mx = 0 , t = 0;
+        int n = s.length() , mn = 0 , mx = 0;
         for(int i = 0 ; i < n ; i++){
             if(s[i] == '(') mn++ , mx++;
             else if(s[i] == ')')    mx-- , mn--;
