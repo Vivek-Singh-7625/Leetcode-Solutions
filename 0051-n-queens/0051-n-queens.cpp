@@ -13,7 +13,6 @@ public:
     }
     bool filler(vector<string>& A , int x , int y){
         int n = A.size();
-
         for(int i = 0 ; i < x ; i++){
             if(A[i][y] == 'Q')  return true;
         }
@@ -27,10 +26,6 @@ public:
         return false;
     }
     void helper(vector<vector<string>>& ans , vector<string>& A , int x , int y){
-        if(x == A.size()){
-            ans.push_back(A);
-            return;
-        };
         if(filler(A , x , y))   return;
         A[x][y] = 'Q';
         if(x == A.size() - 1){
