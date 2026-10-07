@@ -10,6 +10,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -388,6 +389,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -821,4 +823,8 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0176-second-highest-salary](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0178-rank-scores) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
