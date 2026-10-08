@@ -43,6 +43,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0496-next-greater-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -131,6 +132,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -197,6 +199,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
+| [0523-continuous-subarray-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0789-escape-the-ghosts) |
 | [0836-rectangle-overlap](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -482,6 +485,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -742,6 +746,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Geometry
 |  |
 | ------- |
