@@ -9,15 +9,12 @@ public:
         for(int i = m-1 ; i >= 0 ; i--){
             for(int j = n-1 ; j >= 0 ; j--){
                 if(s1[i] == s2[j]){
-                    if(i == m-1 or j == n-1)    x = 0;
-                    else    x = dp[i+1][j+1];
+                    x = (i == m-1 or j == n-1) ? 0 : dp[i+1][j+1];
                     dp[i][j] = s1[i] + x;
                 }
                 else{
-                    if(i == m-1)    x = 0;
-                    else    x = dp[i+1][j];
-                    if(j == n-1)    y = 0;
-                    else    y = dp[i][j+1];
+                    x = i == m-1 ? 0 : dp[i+1][j];
+                    y = j == n-1 ? 0 : dp[i][j+1];
                     dp[i][j] = max(x,y);
                 }
             }
