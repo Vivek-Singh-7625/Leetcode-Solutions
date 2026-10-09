@@ -11,8 +11,7 @@ public:
             else{
                 t--;
                 if(t < 0){
-                    if((-t)%2)  ans += 2;
-                    else    ans--;
+                    ans = (-t)%2 ? ans + 2 : ans - 1;
                 }
             }
         }
