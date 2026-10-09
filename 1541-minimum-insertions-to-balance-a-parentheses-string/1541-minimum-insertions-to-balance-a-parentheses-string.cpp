@@ -2,10 +2,10 @@ class Solution {
 public:
     int minInsertions(string s) {
         int n = s.length() , t = 0 , ans  = 0 ;
-        for(int i = 0 ; i < n ; i++){
-            if(s[i] == '('){ 
+        for(char c : s){
+            if(c == '('){ 
                 if(t < 0)   t = 0;
-                if(t%2 and s[i-1] == ')')   t-- , ans++;
+                if(t%2)   t-- , ans++;
                 t += 2;
             }
             else{
