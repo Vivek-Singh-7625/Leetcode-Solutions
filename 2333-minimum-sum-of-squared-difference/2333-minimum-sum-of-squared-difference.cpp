@@ -2,51 +2,47 @@
 class Solution {
 public:
     long long minSumSquareDiff(vector<int>& nums1, vector<int>& nums2, int k1, int k2) {
-        priority_queue<pair<int,long long>> pq;
+        vector<pair<int,int>> v;
         long long total = 1LL*k1 + k2;
-        int n = nums1.size();
-        unordered_map<int,long long> mpp;
-        long long cost , next;
+        int n = nums1.size() , next , count , curr , val;
+        unordered_map<int,int> mpp;
+        long long cost , p , q;
 
         for(int i = 0 ; i < n ; i++)    mpp[abs(nums1[i] - nums2[i])]++;
-        for(auto& [k,v] : mpp){
-            pq.push({k,v});
+        for(auto& [k,value] : mpp){
+            v.push_back({k,value});
         }
+        sort(v.begin() , v.end());
+        n = v.size();
 
-        while(total > 0 and !pq.empty()){
-            if(pq.top().first == 0)   return 0;
-            auto [f , c] = pq.top();
-            pq.pop();
-            next = pq.empty() ? 0 : pq.top().first;
-            cost = 1LL*(f-next)*c;
-
+        while(total > 0){
+            curr = v[n-1].first;
+            if(curr == 0)    return 0;
+            next = (n <= 1) ? 0 : v[n-2].first;
+            count = v[n-1].second;
+            cost = 1LL*count*(curr-next);
             if(total >= cost){
                 total -= cost;
-
-                if(!pq.empty() and pq.top().first == next){
-                    c += pq.top().second;
-                    pq.pop();
-                }
-                pq.push({next , c});
+                if(n == 1)    return 0;
+                v[n-2].second += v[n-1].second;
+                v.pop_back();
+                n--;
             }
             else{
-                long long q = total/c;
-                long long r = total%c;
-                int val = f-q;
-                if(c-r != 0)    pq.push({val , c-r});
-                if(r > 0)      pq.push({val-1 , r});
+                p = total/count;
+                q = total%count;
+                val = curr-p;
+                v[n-1] = {val,count-q};
+                if(q > 0)    v.push_back({val-1,q}) , n++;
                 total = 0;
             }
         }
 
         long long ans = 0;
-
-        while(!pq.empty()){
-            auto [f , c] = pq.top();
-            pq.pop();
-            ans += 1LL*f*f*c;
+        for(int i = n-1 ; i >= 0 ; i--){
+            curr = v[i].first;
+            ans += 1LL*curr*curr*v[i].second;
         }
-
         return ans;
     }
 };
