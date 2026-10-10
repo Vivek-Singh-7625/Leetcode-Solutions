@@ -33,8 +33,7 @@ public:
                 long long q = total/c;
                 long long r = total%c;
                 int val = f-q;
-
-                if(c-r > 0)    pq.push({val , c-r});
+                if(c-r != 0)    pq.push({val , c-r});
                 if(r > 0)      pq.push({val-1 , r});
                 total = 0;
             }
