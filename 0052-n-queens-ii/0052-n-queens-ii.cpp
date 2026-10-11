@@ -4,14 +4,14 @@ public:
         vector<vector<bool>> q(n,vector<bool> (n,false));
         int ans = 0;
         for(int i = 0 ; i < n ; i++)    helper(0,i,q,ans);
-        return ans/n;
+        return ans;
     }
     void helper(int x , int y , vector<vector<bool>>& q , int& ans){
-        if(x == q.size()){
+        if(not_valid(x,y,q))    return;
+        if(x == q.size() - 1){
             ans++;
             return;
         }
-        if(not_valid(x,y,q))    return;
         q[x][y] = true;
         for(int i = 0 ; i < q.size() ; i++)    helper(x+1,i,q,ans);
         q[x][y] = false;;
