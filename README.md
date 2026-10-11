@@ -47,6 +47,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0540-single-element-in-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -138,6 +139,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0535-encode-and-decode-tinyurl](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
@@ -310,6 +312,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -482,6 +485,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
@@ -569,6 +573,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0435-non-overlapping-intervals](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
