@@ -403,6 +403,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -850,6 +851,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 ## Longest Common Subsequence
 |  |
 | ------- |
