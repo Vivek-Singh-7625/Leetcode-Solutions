@@ -90,6 +90,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2680-maximum-or](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2680-maximum-or) |
 | [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -523,6 +524,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [1291-sequential-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
