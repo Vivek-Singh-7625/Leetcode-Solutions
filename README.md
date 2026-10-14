@@ -405,6 +405,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
@@ -698,6 +699,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
@@ -824,6 +826,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## 0-1 Knapsack
 |  |
@@ -880,5 +883,6 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
