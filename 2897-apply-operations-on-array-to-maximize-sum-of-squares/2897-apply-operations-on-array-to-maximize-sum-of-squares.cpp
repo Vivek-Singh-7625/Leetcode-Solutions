@@ -1,11 +1,11 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums, int k) {
-        vector<int> bit(32);
+        vector<int> bit(30);
         int n = nums.size() , t ;
         for(int i = 0 ; i < n ; i++){
             t = nums[i];
-            for(int j = 0 ; j < 32 ; j++){
+            for(int j = 0 ; j < 30 ; j++){
                 if(t & (1 << j))    bit[j]++;
             }
         }
@@ -13,7 +13,7 @@ public:
         bool end = true;
         for(int i = 0 ; i < k ; i++){
             t = 0;
-            for(int j = 0 ; j < 32 ; j++){
+            for(int j = 0 ; j < 30 ; j++){
                 if(bit[j]){
                     end = false;
                     bit[j]--;
