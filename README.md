@@ -92,6 +92,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -157,6 +158,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -465,6 +467,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2680-maximum-or](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2680-maximum-or) |
 | [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -669,6 +672,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2680-maximum-or](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2680-maximum-or) |
 | [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
