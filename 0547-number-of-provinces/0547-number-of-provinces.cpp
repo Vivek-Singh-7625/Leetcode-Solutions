@@ -17,7 +17,6 @@ public:
         for(int i = 0 ; i < a.size() ; i++){
             if(a[x][i]){
                 traversal(i,v,a);
-                v[i] = true;
             }
         }
     }
