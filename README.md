@@ -30,6 +30,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0300-longest-increasing-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0330-patching-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0391-perfect-rectangle](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0391-perfect-rectangle) |
@@ -449,6 +450,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
