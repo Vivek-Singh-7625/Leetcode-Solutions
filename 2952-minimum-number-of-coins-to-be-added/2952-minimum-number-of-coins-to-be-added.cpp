@@ -11,7 +11,7 @@ public:
             }
             else{
                 ans++;
-                range += (range + 1);
+                range = (2*range + 1);
             }
         }
         return ans;
