@@ -83,6 +83,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -466,6 +467,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1927-sum-game) |
@@ -601,6 +603,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1051-height-checker](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
