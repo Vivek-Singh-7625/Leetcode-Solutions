@@ -63,6 +63,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0867-transpose-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -151,6 +152,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
+| [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -512,6 +514,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
+| [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3527-find-the-most-common-response](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
@@ -581,6 +584,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0925-long-pressed-name](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -602,6 +606,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0658-find-k-closest-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
+| [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
