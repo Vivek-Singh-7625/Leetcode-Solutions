@@ -1,36 +1,42 @@
+
 class Solution {
 public:
     int minSwaps(vector<int>& nums) {
-        int n = nums.size() , x , y;
-        unordered_map<int,int> mpp;
-        vector<int> p = nums;
+        int n = nums.size(), x, y;
+        unordered_map<int, int> mpp;
+        vector<int> p(n);
+
         mpp.reserve(n);
-        for(int i = 0 ; i < n ; i++){
+
+        for (int i = 0; i < n; i++) {
             x = nums[i];
             y = 0;
-            while(x){
-                y += x%10;
-                x = x/10;
+            p[i] = i;
+
+            while (x) {
+                y += x % 10;
+                x /= 10;
             }
+
             mpp[nums[i]] = y;
         }
-        int swaps = 0;
+
         auto cmp = [&](int a, int b) {
-            if(mpp[a] == mpp[b]){
-                return a < b;
-            }
-            return mpp[a] < mpp[b];
+            if (mpp[nums[a]] == mpp[nums[b]])   return nums[a] < nums[b];
+            return mpp[nums[a]] < mpp[nums[b]];
         };
-        sort(nums.begin(),nums.end(),cmp);
-        for(int i = 0 ; i < n ; i++){
-            mpp[nums[i]] = i;
-        }
+
+        sort(p.begin(), p.end(), cmp);
+
+        int swaps = 0;
+
         for (int i = 0; i < n; i++) {
-            while (p[i] != nums[i]) {
-                swap(p[mpp[p[i]]], p[i]);
+            while (p[i] != i) {
+                swap(p[i], p[p[i]]);
                 swaps++;
             }
         }
+
         return swaps;
     }
 };
