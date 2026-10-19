@@ -274,6 +274,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0022-generate-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -384,6 +385,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0032-longest-valid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
