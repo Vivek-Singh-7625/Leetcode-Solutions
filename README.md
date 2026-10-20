@@ -22,6 +22,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0174-dungeon-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -389,6 +390,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0063-unique-paths-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0174-dungeon-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0279-perfect-squares) |
@@ -659,6 +661,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0063-unique-paths-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0174-dungeon-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0419-battleships-in-a-board](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
