@@ -119,6 +119,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -251,6 +252,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3871-count-commas-in-range-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3945-digit-frequency-score](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
@@ -568,6 +570,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -636,6 +639,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3731-find-missing-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
 |  |
