@@ -9,11 +9,10 @@ public:
 
         for (int i = 1; i < n; i++) {
             val = nums[(idx + i) % n];
-            if (val != i)   asc = false;
-            if (val != n - i)   desc = false;
-            if (!asc && !desc)  return -1;
+            if(val != i)    asc = false;
+            if(val != n - i)    desc = false;
+            if(!asc && !desc)   return -1;
         }
-
         if (asc)    return min(idx, n - idx + 2);
         return min(n - idx, idx + 2);
     }
