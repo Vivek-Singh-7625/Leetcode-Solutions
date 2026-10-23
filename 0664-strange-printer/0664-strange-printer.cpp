@@ -12,7 +12,7 @@ public:
 
         int i = l+1 , n = s.length();
         while(i < n  and s[i] == s[l])  i++;
-        if(i == n) return 1;
+        if(i > r) return dp[l][r] = 1;
         int ans1 = 1 + solver(i,r,s,dp);
         
         for(int j = i ; j <= r ; j++){
