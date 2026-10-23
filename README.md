@@ -66,6 +66,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0877-stone-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0954-array-of-doubled-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -160,6 +161,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0954-array-of-doubled-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -486,6 +488,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0954-array-of-doubled-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -627,6 +630,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
+| [0954-array-of-doubled-pairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
