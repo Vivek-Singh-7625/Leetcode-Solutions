@@ -3,22 +3,18 @@ public:
     bool canReorderDoubled(vector<int>& arr) {
         int n = arr.size();
         unordered_map<int,int> mpp;
-        int k = 0;
         auto cmp = [&](int a , int b){
             return abs(a) < abs(b);
         };
         sort(arr.begin(),arr.end(),cmp);
-        int x;
-        for(int i = 0 ; i < n ; i++)    mpp[arr[i]]++;
-        for(int i = 0 ; i < n ; i++){
-            x = arr[i]*2;
-            if(mpp[x] and mpp[x/2]){
-                if(x == 0 and mpp[x] == 1)  continue;
-                mpp[x/2]--;
+        for (int& x : arr)  mpp[x]++;
+        for (int& x : arr){
+            if(mpp[x]){
+                if(mpp[2*x] <= 0)   return false;
                 mpp[x]--;
-                k++;
+                mpp[2*x]--;
             }
         }
-        return k >= n/2;
+        return true;
     }
 };
