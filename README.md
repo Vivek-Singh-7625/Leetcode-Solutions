@@ -298,6 +298,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0664-strange-printer](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -409,6 +410,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0435-non-overlapping-intervals](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0664-strange-printer](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
