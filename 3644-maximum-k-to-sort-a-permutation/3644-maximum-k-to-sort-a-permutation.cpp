@@ -1,13 +1,13 @@
+
 class Solution {
 public:
     int sortPermutation(vector<int>& nums) {
-        int ans = INT_MAX , n = nums.size();
-        for(int i = 0 ; i < n ; i++){
-            if(nums[i] != i){  
+        int ans = -1;
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] != i) {
                 ans = ans & nums[i];
             }
         }
-        if(ans == INT_MAX)  return 0;
-        return ans;
+        return max(ans, 0);
     }
 };
