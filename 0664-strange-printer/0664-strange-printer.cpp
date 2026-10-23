@@ -10,7 +10,6 @@ public:
         for (int len = 2; len <= n; len++) {
             for (int l = 0; l + len <= n; l++) {
                 int r = l + len - 1;
-
                 int x = l + 1;
                 while (x <= r && s[x] == s[l])  x++;
                 if (x > r)  dp[l][r] = 1;
@@ -19,10 +18,7 @@ public:
 
                     for (int k = x; k <= r; k++) {
                         if (s[k] == s[l]) {
-                            dp[l][r] = min(
-                                dp[l][r],
-                                dp[x][k - 1] + dp[k][r]
-                            );
+                            dp[l][r] = min( dp[l][r],dp[x][k - 1] + dp[k][r]);
                         }
                     }
                 }
