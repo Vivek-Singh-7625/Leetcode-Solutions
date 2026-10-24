@@ -241,6 +241,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1927-sum-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2235-add-two-integers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -324,6 +325,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2409-count-days-spent-together](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
