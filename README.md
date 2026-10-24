@@ -126,6 +126,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3903-smallest-stable-index-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
@@ -476,6 +477,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Greedy
 |  |
 | ------- |
