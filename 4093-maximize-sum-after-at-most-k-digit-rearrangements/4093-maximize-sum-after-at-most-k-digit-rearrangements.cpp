@@ -2,9 +2,8 @@ class Solution {
 public:
     long long maximizeSum(vector<int>& nums, int k) {
         int n = nums.size() , t;
-        unordered_map<int,int> mpp;
+        vector<int> mpp(10,0);
         long long ans = 0;
-        mpp.reserve(10);
         vector<int> gain(n);
         for(int i = 0 ; i < n ; i++){
             t = nums[i];
