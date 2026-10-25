@@ -8,12 +8,6 @@ public:
                 if(grid[i][j] == 0) ans += closed(grid , i , j);
             }
         }
-        for(int i = 0 ; i < m ; i++){
-            for(int j = 0 ; j < n ; j++){
-                cout << grid[i][j] << " ";
-            }
-            cout << endl;
-        }
         return ans;
     }
     bool closed(vector<vector<int>>& visited , int i , int j){
