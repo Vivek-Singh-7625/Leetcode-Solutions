@@ -74,6 +74,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -439,6 +440,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0513-find-bottom-left-tree-value](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
@@ -684,6 +686,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0419-battleships-in-a-board](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -755,6 +758,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0513-find-bottom-left-tree-value](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
@@ -883,6 +887,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0128-longest-consecutive-sequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## 0-1 Knapsack
 |  |
