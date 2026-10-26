@@ -290,6 +290,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -406,6 +407,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0072-edit-distance](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -454,6 +456,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
