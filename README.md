@@ -112,6 +112,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -442,6 +443,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -690,6 +692,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1260-shift-2d-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -761,6 +764,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -889,6 +893,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## 0-1 Knapsack
 |  |
 | ------- |
