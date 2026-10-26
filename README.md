@@ -129,6 +129,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3904-smallest-stable-index-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4054-count-shadow-pairs-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
@@ -376,6 +377,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [4054-count-shadow-pairs-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -750,6 +752,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [4054-count-shadow-pairs-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Depth-First Search
 |  |
 | ------- |
