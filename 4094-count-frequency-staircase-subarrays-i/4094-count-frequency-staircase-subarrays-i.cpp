@@ -16,6 +16,7 @@ public:
                     if(mpp[x] != k+1)   break;
                     if(k == s - 1)  ans++;
                 }
+                if(mpp[x] > s)   break;
             }
             distinct.clear();
             mpp.clear();
