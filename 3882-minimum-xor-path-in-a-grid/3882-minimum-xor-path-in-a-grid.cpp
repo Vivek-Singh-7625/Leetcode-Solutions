@@ -1,26 +1,41 @@
 class Solution {
 public:
     int minCost(vector<vector<int>>& grid) {
-        int m = grid.size() , n = grid[0].size() , x ;
-        vector<vector<vector<bool>>> dp(m , vector<vector<bool>> (n , vector<bool> (1024,false)));
-        bool a , b;
-        x = grid[0][0];
-        dp[0][0][x] = true;
-        for(int i = 0 ; i < m ; i++){
-            for(int j = 0 ; j < n ; j++){
-                if(i == 0 and j == 0)   continue;
-                x = grid[i][j];
-                for(int k = 0 ; k < 1024 ; k++){
-                    a = i ? dp[i-1][j][k] : 0;
-                    b = j ? dp[i][j-1][k] : 0;
-                    if(a)   dp[i][j][x^k] = true;
-                    if(b)   dp[i][j][x^k] = true;
-                }
+        int m = grid.size(), n = grid[0].size();
+        vector<vector<int>> dp(n);
+        dp[0].push_back(grid[0][0]);
+        vector<int> seen(1024, 0);
+        int stamp = 0;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i == 0 && j == 0)   continue;
+
+                int x = grid[i][j];
+                vector<int> next;
+                ++stamp;
+
+                auto addStates = [&](const vector<int>& states) {
+                    for (int k : states) {
+                        int val = k ^ x;
+
+                        if (seen[val] != stamp) {
+                            seen[val] = stamp;
+                            next.push_back(val);
+                        }
+                    }
+                };
+
+                if (i > 0)
+                    addStates(dp[j]);
+
+                if (j > 0)
+                    addStates(dp[j - 1]);
+
+                dp[j] = move(next);
             }
         }
-        for(int k = 0 ; k < 1024 ; k++){
-            if(dp[m-1][n-1][k]) return k;
-        }
-        return -1;
+
+        return *min_element(dp[n - 1].begin(), dp[n - 1].end());
     }
 };
