@@ -18,9 +18,9 @@ public:
                 }
             }
         }
-        for(int k = 0 ; k < 1023 ; k++){
+        for(int k = 0 ; k < 1024 ; k++){
             if(dp[m-1][n-1][k]) return k;
         }
-        return 1023;
+        return -1;
     }
 };
