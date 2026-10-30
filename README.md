@@ -213,6 +213,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -287,6 +288,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0022-generate-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -674,6 +676,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
