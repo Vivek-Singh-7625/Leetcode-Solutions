@@ -41,6 +41,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0419-battleships-in-a-board](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -233,6 +234,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0447-number-of-boomerangs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0789-escape-the-ghosts) |
