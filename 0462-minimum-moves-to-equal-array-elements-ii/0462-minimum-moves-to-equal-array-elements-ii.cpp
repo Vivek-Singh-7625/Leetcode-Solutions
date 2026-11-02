@@ -7,7 +7,7 @@ public:
         if(n == 1)  return 0;
         if(n%2){
             a = nums[n/2];
-            b = nums[n/2+1];
+            b = nums[n/2];
         }
         else{
             a = nums[n/2];
