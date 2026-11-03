@@ -9,6 +9,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0001-two-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0057-insert-interval) |
@@ -144,6 +145,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -467,6 +469,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -701,6 +704,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -967,6 +971,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 ## Longest Common Subsequence
@@ -979,4 +984,8 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
