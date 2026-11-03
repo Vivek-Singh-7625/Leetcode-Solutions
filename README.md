@@ -11,6 +11,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0015-3sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -146,6 +147,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0013-roman-to-integer](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -299,6 +301,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0032-longest-valid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -651,6 +654,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
