@@ -79,6 +79,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1219-path-with-maximum-gold](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -480,6 +481,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [1219-path-with-maximum-gold](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 ## Binary Search
 |  |
@@ -719,6 +721,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0419-battleships-in-a-board](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
