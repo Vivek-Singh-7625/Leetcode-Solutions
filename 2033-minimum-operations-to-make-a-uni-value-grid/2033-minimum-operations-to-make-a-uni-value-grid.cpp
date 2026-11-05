@@ -7,7 +7,6 @@ public:
         for(int i = 0 ; i < m ; i++){
             for(int j = 0 ; j < n ; j++){
                 temp[i*n+j] = grid[i][j];
-                cout << i*n + j << endl;
             }
         }
         sort(temp.begin(),temp.end());
