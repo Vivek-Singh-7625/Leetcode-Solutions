@@ -6,6 +6,7 @@ public:
             t = INT_MAX;
             for(int y : arr2){
                 t = min(t,abs(y-x));
+                if(t <= d)   break;
             }
             if(t > d)   ans++;
         }
