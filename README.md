@@ -98,6 +98,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -258,6 +259,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1903-largest-odd-number-in-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1927-sum-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2235-add-two-integers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -682,6 +684,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -729,6 +732,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
