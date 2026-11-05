@@ -29,7 +29,6 @@ public:
             ans = ans2;
             if(a1)  ans  = min(ans1,ans);
         }
-        cout << a << " " << b << endl;
         return ans;
     }
 };
