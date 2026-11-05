@@ -982,6 +982,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | ------- |
 | [0176-second-highest-salary](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0178-rank-scores) |
+| [0585-investments-in-2016](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0585-investments-in-2016) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 ## Algorithm X
 |  |
