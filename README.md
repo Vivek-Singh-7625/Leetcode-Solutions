@@ -83,6 +83,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1219-path-with-maximum-gold](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -471,6 +472,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
@@ -581,6 +583,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
+| [1267-count-servers-that-communicate](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3527-find-the-most-common-response](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
@@ -735,6 +738,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1219-path-with-maximum-gold](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -811,6 +815,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -941,6 +946,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0200-number-of-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## 0-1 Knapsack
