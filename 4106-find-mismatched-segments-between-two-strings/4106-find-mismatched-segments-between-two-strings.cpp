@@ -11,8 +11,8 @@ public:
             }
             else{
                 if(a1.size())   ans.push_back({a1,a2});
-                a1.clear();
-                a2.clear();
+                a1 = "";
+                a2 = "";
             }
         }
         if(a1.size())   ans.push_back({a1,a2});
