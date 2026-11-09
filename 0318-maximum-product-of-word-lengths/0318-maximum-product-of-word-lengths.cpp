@@ -1,20 +1,13 @@
 class Solution {
 public:
     int maxProduct(vector<string>& words) {
-        bool valid = true;
         int n = words.size() , ans = 0 , t;
+        vector<int> a(n);
         for(int i = 0 ; i < n ; i++){
-            for(int j = i + 1 ; j < n ; j++){
-                valid = true;
-                t = words[i].size() * words[j].size();
-                if(t <= ans) continue;
-                for(char a : words[i]){
-                    for(char b : words[j]){
-                        if((a^b) == 0)    valid = false;
-                    }
-                    if(!valid)  break;
-                }
-                if(valid)   ans = t;
+            for(char c : words[i])   a[i] = a[i] | ( 1 << (c-'a') );
+            for(int j = 0 ; j < i ; j++){
+                t = words[i].size()*words[j].size();
+                if(!(a[i]&a[j]))    ans = max(ans,t);
             }
         }
         return ans;
