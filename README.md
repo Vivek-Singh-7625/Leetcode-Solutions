@@ -32,6 +32,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -320,6 +321,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0273-integer-to-english-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
@@ -778,6 +780,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
