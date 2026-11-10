@@ -47,6 +47,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0473-matchsticks-to-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -448,6 +449,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0410-split-array-largest-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0664-strange-printer](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0664-strange-printer) |
@@ -492,6 +494,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0216-combination-sum-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [1219-path-with-maximum-gold](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [2708-maximum-strength-of-a-group](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 ## Binary Search
@@ -785,6 +788,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0318-maximum-product-of-word-lengths](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0473-matchsticks-to-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -970,6 +974,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Primality Test
 |  |
