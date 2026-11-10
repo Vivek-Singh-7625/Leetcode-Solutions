@@ -1,16 +1,15 @@
 class Solution {
 public:
     int climbStairs(int n, vector<int>& costs) {
-        vector<int> dp(n+1,-1);
-        return solver(dp,costs,n);
-    }
-    int solver(vector<int>& dp , vector<int>& c , int idx){
-        if(idx < 0) return 1e9;
-        if(idx == 0) return 0;
-        if(dp[idx] != -1)   return dp[idx];
-        int x = c[idx-1] + 1 + solver(dp,c,idx-1);
-        int y = c[idx-1] + 4 + solver(dp,c,idx-2);
-        int z = c[idx-1] + 9 + solver(dp,c,idx-3);
-        return dp[idx] = min(x,min(y,z));
+        vector<int> dp(n+1,1e9);
+        dp[0] = 0;
+        int x ;
+        for(int i = 0 ; i < n ; i++){
+            for(int k = 1 ; k <= 3 ; k++){
+                x = 1e9;
+                if(i + k <= n)  dp[i+k] = min(dp[i] + costs[i+k-1] + k*k , dp[i+k]); 
+            }
+        }
+        return dp[n];
     }
 };
