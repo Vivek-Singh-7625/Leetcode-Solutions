@@ -365,6 +365,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3110-score-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -559,6 +560,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
