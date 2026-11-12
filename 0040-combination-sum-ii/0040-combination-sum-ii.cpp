@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-        sort(candidates.begin(),candidates.end());
+        sort(candidates.begin(),candidates.end(),greater<int>());
         vector<int> r;
         solver(ans, candidates, r, target, 0 );
         return ans;
