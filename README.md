@@ -10,6 +10,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
@@ -490,6 +491,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0079-word-search) |
