@@ -204,6 +204,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
@@ -367,6 +368,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3110-score-of-a-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
@@ -565,6 +567,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -602,6 +605,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1267-count-servers-that-communicate](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3527-find-the-most-common-response](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -715,6 +719,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [2733-neither-minimum-nor-maximum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
