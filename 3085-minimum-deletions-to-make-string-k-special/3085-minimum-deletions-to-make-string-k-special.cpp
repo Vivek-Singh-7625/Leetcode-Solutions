@@ -9,7 +9,7 @@ public:
         sort(arr.begin(),arr.end());
         
         int n = arr.size() , ans = INT_MAX , del;
-        if(k >= arr[n-1])   return 0;
+        if((arr[n-1] - arr[0]) <= k)  return 0;
         for(int i : arr){
             del = 0;
             for(int x : arr){
