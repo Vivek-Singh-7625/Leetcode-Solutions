@@ -13,6 +13,7 @@ public:
         for(int i = 0 ; i <= arr[n-1] ; i++){
             del = 0;
             for(int x : arr){
+                if(del > ans)   break;
                 if(i > x)   del += x;
                 if(i + k < x)   del += (x - i - k);
             }
