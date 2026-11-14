@@ -10,7 +10,7 @@ public:
         
         int n = arr.size() , ans = INT_MAX , del;
         if(k >= arr[n-1])   return 0;
-        for(int i = 0 ; i <= arr[n-1] ; i++){
+        for(int i : arr){
             del = 0;
             for(int x : arr){
                 if(del > ans)   break;
