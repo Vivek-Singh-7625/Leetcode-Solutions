@@ -1,23 +1,25 @@
 class Solution {
 public:
     int minimumDeletions(string word, int k) {
-        unordered_map<int,int> mpp;
-        for(char c : word)  mpp[c]++;
+        vector<int> freq(26,0);
+
+        for(char c : word)  freq[c - 'a']++;
 
         vector<int> arr;
-        for(auto& [k,v] : mpp)  arr.push_back(v);
-        sort(arr.begin(),arr.end());
-        
-        int n = arr.size() , ans = INT_MAX , del;
-        if((arr[n-1] - arr[0]) <= k)  return 0;
-        for(int i : arr){
-            del = 0;
-            for(int x : arr){
-                if(del > ans)   break;
-                if(i > x)   del += x;
-                if(i + k < x)   del += (x - i - k);
+        for(int x : freq){
+            if(x) arr.push_back(x);
+        }
+        sort(arr.begin(), arr.end());
+        int ans = word.size();
+
+        for(int i : arr) {
+            int del = 0;
+            for(int x : arr) {
+                if(x < i)   del += x;
+                else if(x > i + k)  del += x - i - k;
+                if(del >= ans)  break;
             }
-            ans = min(del,ans);
+            ans = min(ans, del);
         }
         return ans;
     }
