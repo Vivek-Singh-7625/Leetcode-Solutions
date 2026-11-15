@@ -5,10 +5,8 @@ public:
         for(int i = 0 ; i < n ; i++){
             if(nums[i] == 2)    nums[i] = -1;
             else{
-                k = 0;
-                while(nums[i]&(1 << k)) k++;
-                k--;
-                nums[i] = (nums[i]^(1 << k));
+                k = nums[i] + 1;
+                nums[i] = (nums[i]^((-k & k) >> 1));
             }
         }
         return nums;
