@@ -19,7 +19,6 @@ public:
             solver(ans , temp , nums , idx+1);
             temp.pop_back();
         }
-        while(idx + 1 < nums.size() and nums[idx] == nums[idx+1])   idx++;
         solver(ans , temp , nums , idx+1);
     }
 };
