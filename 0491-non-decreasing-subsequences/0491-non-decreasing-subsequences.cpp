@@ -1,24 +1,20 @@
 class Solution {
 public:
     vector<vector<int>> findSubsequences(vector<int>& nums) {
-        set<vector<int>> ans;
-        vector<vector<int>> res;
+        vector<vector<int>> ans;
         vector<int> temp;
         solver(ans , temp , nums , 0);
-        for(vector<int> a : ans)   res.push_back(a); 
-        return res;
+        return ans;
     }
-    void solver(set<vector<int>>& ans , vector<int>& temp , vector<int>& nums , int idx){
-        int n = temp.size();
-        if(idx == nums.size()){
-            if(n > 1)   ans.insert(temp);
-            return;
-        }  
-        if(n == 0 or temp[n-1] <= nums[idx]){
-            temp.push_back(nums[idx]);
-            solver(ans , temp , nums , idx+1);
-            temp.pop_back();
+    void solver(vector<vector<int>>& ans , vector<int>& temp , vector<int>& nums , int idx){
+        if(temp.size() > 1)   ans.push_back(temp);
+        unordered_set<int> st;
+        for(int i = idx ; i < nums.size() ; i++){
+            if((temp.empty() or temp.back() <= nums[i]) and st.insert(nums[i]).second){
+                temp.push_back(nums[i]);
+                solver(ans , temp , nums , i+1);
+                temp.pop_back();
+            }
         }
-        solver(ans , temp , nums , idx+1);
     }
 };
