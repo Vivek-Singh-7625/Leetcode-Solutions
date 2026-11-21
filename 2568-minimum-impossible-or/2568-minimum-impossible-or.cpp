@@ -1,15 +1,11 @@
 class Solution {
 public:
     int minImpossibleOR(vector<int>& nums) {
-        int t ;
-        vector<bool> ans(32,0);
-        for(int x : nums){
-            t = log2(x);
-            if((x & (x - 1)) == 0)  ans[t] = true;
+        int ans = 0;
+        for (auto &n : nums) {
+            if ((n & (n-1)) == 0) ans |= n;  // no. is power of 2
         }
-        for(int i = 0 ; i < 32 ; i++){
-            if(!ans[i]) return (1 << i);
-        }
-        return -1;
+        ans = ~ans; // to get first bit lsb which is set to 0
+        return (ans & (-ans));  // isolates the lowest set bit (the rightmost 1 in binary)
     }
 };
