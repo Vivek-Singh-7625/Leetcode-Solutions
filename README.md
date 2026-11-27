@@ -62,6 +62,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0789-escape-the-ghosts](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0789-escape-the-ghosts) |
@@ -188,6 +189,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0575-distribute-candies](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
@@ -352,6 +354,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0678-valid-parenthesis-string](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
+| [0692-top-k-frequent-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0848-shifting-letters](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0848-shifting-letters) |
@@ -615,6 +618,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
@@ -719,6 +723,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0923-3sum-with-multiplicity](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
@@ -877,6 +882,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -888,6 +894,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Ordered Set
 |  |
 | ------- |
@@ -933,6 +940,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0692-top-k-frequent-words](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
