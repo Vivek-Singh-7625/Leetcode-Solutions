@@ -94,6 +94,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1436-destination-city](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -272,6 +273,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0957-prison-cells-after-n-days](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [1137-n-th-tribonacci-number](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1641-count-sorted-vowel-strings](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
@@ -441,6 +443,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0307-range-sum-query-mutable](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
@@ -640,6 +643,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 | [0930-binary-subarrays-with-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2680-maximum-or](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/2680-maximum-or) |
@@ -910,6 +914,7 @@ Collection of LeetCode problem solutions with explanations, optimized approaches
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Vivek-Singh-7625/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Function
 |  |
 | ------- |
